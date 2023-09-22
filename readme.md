@@ -1,6 +1,6 @@
-# Simple Go HTTP Server
+# Go HTTP Server
 
-This is a simple Go HTTP server that handles different routes and requests.
+This is a Go HTTP server that handles different routes and requests.
 
 ## Installation
 
