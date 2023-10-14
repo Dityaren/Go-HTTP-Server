@@ -9,13 +9,13 @@ To run the server, make sure you have Go installed. Then, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Dityaren/Go-HTTP-Server
 ```
 
 2. Change into the project directory:
 
 ```bash
-cd your-repository
+cd Go-HTTP-Server
 ```
 
 3. Build the project:
